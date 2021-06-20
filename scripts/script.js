@@ -9,5 +9,5 @@ $(document).ready(function() {
     // el.innerText = "Hello, Local! (programtically.)";
 
     //let's do it again with jQ
-    $("#my-greeting").text("hello, local (w/jQ)");
+    $("#my-greeting").text("hello, github pages (w/jQ)");
 });
